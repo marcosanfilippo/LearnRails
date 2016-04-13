@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">5 ways to Learn Rails</string>
+
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="done">Capito!</string>
+    <string name="online">More Online!</string>
+
+    <string name="_1">Ruby on Rails (RoR), spesso chiamato Rails,
+        è un framework open source per applicazioni web scritto in Ruby da David Heinemeier Hansson.\n
+        I suoi obiettivi sono la semplicità e la possibilità di
+        sviluppare applicazioni di concreto interesse con meno codice rispetto ad altri framework.
+        Applicazioni Web di successo sono Git Hub, Twitter, Soundcloud, Air B&amp;B e tante altre.\n
+        Andando avanti scoprirai quanto e\' potente ma soprattutto facile questo framework.
+    </string>
+
+    <string name="_2">Ruby on Rails usa tantissimo le cosi\' dette "gemme" ovvero delle librerie
+        di terze parti rivisitate dalla comunita\' che svolgono per te la maggior parte delle
+        funzionalita\' di base, cosi\' da non doverle implementare ogni volta.\n
+        Ad esempio le interfacce di login, l\'invio di email, autenticazione con i social network etc.,
+        sono tutte funzionalita\' completamente testate e disponibili, cosi\' da ridurre
+        il lavoro alla sola personalizzazione o estensione delle stesse.\n
+        RubyGems e\' un gestore di pacchetti per il linguaggio di programmazione Ruby
+        che fornisce un formato standard, per distribuire i programmi e le librerie scritti in Ruby,
+        chiamato GEMS (dall\'inglese: GEMME) è inoltre uno strumento progettato per facilitare la
+        gestione dell\'installazione delle "gemme" e per la loro distribuzione.
+        La programmazione Rails e\' fortemente consigliata in ambiente UNIX.
+    </string>
+
+    <string name="_3">Il Model-View-Controller (in informatica) e\' un pattern architetturale molto
+        diffuso nello sviluppo di sistemi software, in particolare nell\'ambito della programmazione
+        orientata agli oggetti.\n
+        Il pattern e\' basato sulla separazione dei compiti fra i componenti software che interpretano
+        tre ruoli principali.\n
+        il MODEL fornisce i metodi per accedere ai dati utili all\'applicazione.\n
+        il VIEW visualizza i dati contenuti nel model e si occupa dell\'interazione con utenti e agenti.\n
+        il CONTROLLER riceve i comandi dell\'utente (in genere attraverso il view) e li attua
+        modificando lo stato degli altri due componenti.\n
+        Dal punto di vista della programmazione, il controller e\' scritto in linguaggio Ruby, il model
+        consente di interfacciarsi con uno specifico database (ex. Oracle, PostgreSQL, MySQL, etc.)
+        mentre la view puo\' essere trattata come se fosse una pagina HTML mescolata alle variabili
+        e ai metodi Ruby.\n
+    </string>
+
+    <string name="_4">Ruby on Rails e\' un framework di programmazione versatile e flessibile.
+        Consente la definizione di metodi del modello (accessibili tramite notazione puntata),
+        consente di avere controller molto efficienti e potenti, ad esempio per fornire una
+        VIEW apposita in base al dispositivo (Browser, Mobile, Tablet, etc.)\n
+        Ruby on Rails e\' utilizzato per tantissime applicazioni web di successo, ad esempio\n
+        Git Hub, Twitter, Soundcloud, Air B&amp;B, Groupon, IndieGoGo, KickStarter, Shopify, ZenDesk,
+        Urban Disctionary e tante altre.\n
+        Spesso l\'interfaccia utente (VIEW, V di MVC) viene scritta in linguaggio JavaScript-Based
+        con apposite librerie quali AngularJS (Google) o ReactJS (Facebook) sfruttando le potenzialita\'
+        di un server che tratta i dati in formato JSON.
+    </string>
+
+    <string name="_5">KEEP CALM \n&amp; \nHappy Ruby on Rails Coding!\n\n
+        Sapevi che Ruby on Rails e\' la fusione di due parti completamente distinte?\n
+        Infatti Yukihiro Matsumoto (detto Matz) ha inventato il linguaggio ad oggetti Ruby ma non ha avuto successo.
+        David Heinemeier Hansson, pilota di Formula 1 e grande appassionato di informatica, ha ideato questo Framework
+        (Rails) basato appunto sul linguaggio Ruby (ecco Ruby on Rails), a partire da un suo progetto (BaseCamp).\n
+        Chi l\'avrebbe mai detto?\nSe vuoi avere piu\' informazioni potrai documentarti su Internet
+        o canali ufficiali della community.
+
+    </string>
+    <string name="hints">Il testo può scorrere verso l\'alto se lo trascini!</string>
+
+    <string name="wait">Attenzione</string>
+
+    <string name="suggest">Clicca il check per proseguire e assicurati di aver capito!</string>
+
+    <string name="thanks">Abbiamo finito! Grazie :-)</string>
+    <string name="go">Prova ad andare avanti!</string>
+
+</resources>
+
